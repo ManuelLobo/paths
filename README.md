@@ -9,5 +9,5 @@ Chepeast Path
 
 
 ## Running the program:
-``` python paths.py -i "input.txt" -o "ouput.txt"  --file "sample.csv" ```
+``` python paths.py -i "input.txt" -o "ouput.txt" ```
 
